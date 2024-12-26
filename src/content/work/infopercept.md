@@ -1,11 +1,21 @@
 ---
-company: "McDonalds"
-role: "French Fryer"
-dateStart: "03/16/2018"
-dateEnd: "07/01/2019"
+company: "Infopercept Consulting Pvt. Ltd."
+role: "Junior DevOps Engineer"
+dateStart: "12/01/2024"
+dateEnd: "Present"
 ---
+Joining the Cybersecurity Development Team to focus on implementing secure DevOps practices and infrastructure automation. Primary responsibilities will include developing and maintaining secure CI/CD pipelines, cloud infrastructure, and containerization solutions.
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum.
+- Will be working on integrating security practices into DevOps workflows and automating security controls
+- Focus on cloud infrastructure security, containerization, and deployment automation
+- Collaborate with the cybersecurity team to implement security best practices in infrastructure
+- Develop and maintain secure CI/CD pipelines and infrastructure as code
+- Support cloud security monitoring and incident response processes
 
-- Quibusdam, debitis voluptatum.
-- amet consectetur adipisicing elit. Iure illo neque tempora.
+The role emphasizes:
+- DevSecOps implementation
+- Infrastructure automation
+- Security integration
+- Cloud platform security
+- Containerization and orchestration
+

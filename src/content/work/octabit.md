@@ -1,8 +1,8 @@
 ---
 company: "Octobit8 (OPC) Private Limited"
 role: "DevOps Engineer"
-dateStart: "03/16/2018"
-dateEnd: "07/01/2019"
+dateStart: "01/1/2023"
+dateEnd: "08/08/2023"
 ---
 Specialized in implementing and managing secure cloud infrastructure solutions with a focus on containerization and automation. Developed robust CI/CD pipelines while prioritizing security best practices and efficient deployment strategies.
 
@@ -19,4 +19,3 @@ The core responsibilities focused on building secure, scalable infrastructure wh
 - Cloud infrastructure security
 - Monitoring and incident response
 - Infrastructure as Code implementation
-
