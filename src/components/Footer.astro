@@ -21,7 +21,7 @@ import Container from "@components/Container.astro"
       </Container>
     </section>
   
-    <section class=" py-5 overflow-hidden whitespace-nowrap border-t border-black/10 dark:border-white/25">
+    <section class="py-5 overflow-hidden whitespace-nowrap border-t border-black/10 dark:border-white/25">
       <Container size="md">
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
           <div class="flex flex-col items-center sm:items-start">
@@ -29,7 +29,7 @@ import Container from "@components/Container.astro"
               <svg class="size-6 fill-current">
                 <use href="/brand.svg#brand"/>
               </svg>
-              {SITE.TITLE}
+              DevSecOps Portfolio
             </a>
           </div>
           <div class="flex gap-2 justify-center sm:justify-end items-center">
@@ -37,13 +37,13 @@ import Container from "@components/Container.astro"
               <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-300"></span>
               <span class="relative inline-flex rounded-full h-3 w-3 bg-green-500"></span>
             </span>
-            All systems normal
+            Infrastructure Status: Operational
           </div>
         </div>
       </Container>
     </section>
   
-    <section class=" py-5 overflow-hidden whitespace-nowrap border-t border-black/10 dark:border-white/25">
+    <section class="py-5 overflow-hidden whitespace-nowrap border-t border-black/10 dark:border-white/25">
       <Container size="md">
         <div class="h-full grid grid-cols-1 sm:grid-cols-2 gap-3">
           <div class="order-2 sm:order-1 flex flex-col items-center justify-center sm:items-start">
@@ -56,7 +56,7 @@ import Container from "@components/Container.astro"
               </a>
             </div>
             <div class="text-sm mt-2">
-              &copy; 2024 | All rights reserved
+              &copy; 2024 Shourywardhan Rathore | All rights reserved
             </div>
           </div>
   
@@ -68,7 +68,7 @@ import Container from "@components/Container.astro"
                     href={SOCIAL.HREF} 
                     target="_blank" 
                     aria-label={`${SITE.TITLE} on ${SOCIAL.NAME}`} 
-                    class="group size-10 rounded-full p-2 items-center justify-center hover:bg-black/5 dark:hover:bg-white/20  blend"
+                    class="group size-10 rounded-full p-2 items-center justify-center hover:bg-black/5 dark:hover:bg-white/20 blend"
                   >
                     <svg class="size-full fill-current group-hover:fill-black group-hover:dark:fill-white blend">
                       <use href={`/social.svg#${SOCIAL.ICON}`} />
@@ -82,7 +82,6 @@ import Container from "@components/Container.astro"
       </Container>
     </section>
   </div>
-
 </footer>
 
 <script is:inline>
