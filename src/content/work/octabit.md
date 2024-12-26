@@ -13,9 +13,3 @@ Specialized in implementing and managing secure cloud infrastructure solutions w
 - Developed monitoring and logging solutions for infrastructure and application security events
 - Collaborated with development teams to implement security by design principles in deployment workflows
 
-The core responsibilities focused on building secure, scalable infrastructure while ensuring:
-- Continuous Integration/Deployment automation
-- Container orchestration and management
-- Cloud infrastructure security
-- Monitoring and incident response
-- Infrastructure as Code implementation
